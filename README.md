@@ -1,2 +1,2 @@
 # Attendence-project
-using open cv for face recognition using live camera
+Develop a face detection alogrithm using open cv and python
